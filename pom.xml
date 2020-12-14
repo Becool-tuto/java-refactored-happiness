@@ -7,8 +7,11 @@
     <groupId>org.tuto</groupId>
     <artifactId>java-refactored-happiness</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>root-project</name>
 
 <modules>
     <module>factory-design-pattern</module>
+    <module>interface-java8</module>
 </modules>
 </project>
