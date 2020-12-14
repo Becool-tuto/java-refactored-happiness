@@ -6,5 +6,7 @@ public class ClientClass extends ParentClass implements FirstInterface, SecondIn
 
         clientClass.show();
 
+        FirstInterface.show_static();
+
     }
 }
